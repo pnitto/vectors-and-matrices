@@ -1,7 +1,7 @@
 class ShapeException(Exception):
     pass
 
-
+# dot product
 def dot():
     pass
 
